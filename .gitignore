@@ -53,3 +53,6 @@ logs/
 tmp/
 temp/
 scratch/
+
+# ── MS Office temp lock files ─────────────────────────────────────────────────
+~$*

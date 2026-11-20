@@ -1,0 +1,9 @@
+Freight Rate Prediction — Validation Metrics
+Temporal split: train < 2025-10-01, val >= 2025-10-01
+
+Ridge: RMSE=668.75, MAE=141.65, R2=0.8086, MAPE=6.19%
+XGBoost: RMSE=683.15, MAE=206.14, R2=0.8003, MAPE=9.93%
+LightGBM: RMSE=668.69, MAE=182.90, R2=0.8086, MAPE=8.72%
+RandomForest: RMSE=681.14, MAE=172.49, R2=0.8014, MAPE=7.90%
+
+Best: LightGBM
